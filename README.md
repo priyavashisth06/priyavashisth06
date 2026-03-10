@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Priya 👋<br>An engineering student who likes turning logic into working code.<br><br>• I spend most of my time:<br>• Practicing DSA and problem solving<br>• Writing Python and C programs<br>• Learning how real-world applications are built<br><br>I value clear thinking, simple solutions, and strong basics.<br>This GitHub is where I share my learning journey, projects, and experiments.
+Hi, I’m Priya 👋<br>An engineering student who likes turning logic into working code.<br><br> I spend most of my time:<br>• Practicing DSA and problem solving<br>• Writing Python and C programs<br>• Learning how real-world applications are built<br><br>I value clear thinking, simple solutions, and strong basics.<br>This GitHub is where I share my learning journey, projects, and experiments.
 
 
 ## 🌐 Socials:
