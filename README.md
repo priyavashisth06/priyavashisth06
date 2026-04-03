@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>Hi, I'm Priya 👋 A 2nd-year B.Tech student specializing in AI/ML. I spend most of my time:<br><br>Strengthening my DSA fundamentals and problem-solving skills<br>Building projects that apply ML concepts to real-world problems<br>Writing Python and C, and exploring how intelligent systems work<br><br>I believe strong basics make better engineers. This GitHub is where I document my learning journey — from algorithms to AI experiments.
+<br>Hi, I'm Priya 👋 A 2nd-year B.Tech student specializing in AI/ML. I spend most of my time:<br><br>Strengthening my DSA fundamentals and problem-solving skills<br>Building projects that apply ML concepts to real-world problems<br>Writing Python and C, and exploring how intelligent systems work<br><br>I believe strong basics make better engineers. This GitHub is where I document my learning journey — from algorithms to AI experiments.
 
 
 ## 🌐 Socials:
