@@ -103,17 +103,16 @@ $ ls projects/
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyavashisth06&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyavashisth06&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=priyavashisth06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400)
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=priyavashisth06&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyavashisth06&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=86400)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=priyavashisth06&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
